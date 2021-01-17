@@ -6,5 +6,10 @@ This notebook reports how, after fine-tuning the model for binary classification
  Model | Accuracy 
 --- | --- 
 bakarov.c.run2 | 0.844 
---- | --- 
-ami_umberto | 0.868
+ami_umberto | **0.868**
+
+# References
+[1] Elisabetta Fersini, Deborah Nozza, and Paolo Rosso. 2018b. Overview of the evalita 2018 task on automatic misogyny identification (ami). In *Proceedings of the 6th evaluation campaign of Natural Language Processing and Speech Tools for Italian. Final Workshop (EVALITA 2018)*, Turin, Italy. CEUR.org.
+[2] https://github.com/musixmatchresearch/umberto
+[3] Yinhan Liu, Myle Ott, Naman Goyal, Jingfei Du, Mandar Joshi, Danqi Chen, Omer Levy, Mike Lewis, Luke Zettlemoyer, and Veselin Stoyanov. 2019. Roberta: A robustly optimized BERT pretraining approach. ArXiv preprint 1907.11692.
+
